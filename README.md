@@ -14,6 +14,10 @@ This module systemlessly replaces your default Bengali (Bangla) font with BenSen
 * Support for Bold, Medium and Regular TypeFace
 
 ## Changelog
+### v1.08 - 07.06.2020
+* Removed all Samsung support.
+### v1.07 - 04.06.2020
+* Added support for Samsung Android 10.
 ### v1.06 - 03.04.2020
 * Manually added new Bold and Regular variants.
 * The previous variant is now the Medium TypeFace.
